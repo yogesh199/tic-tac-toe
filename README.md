@@ -48,8 +48,7 @@ def selectingwinner(board,mark):
     #board prepared
     #teal selected
     #winning methon selected
-def boardmodel(board):
-    board = [1,2,3,4,5,6,7,8,9]
+
     
     
 def placemarker(board, mark, position):
@@ -84,6 +83,8 @@ print(turn)
 
 
 # game starts
+
+
 
 while True:
     board = [' ']*10
